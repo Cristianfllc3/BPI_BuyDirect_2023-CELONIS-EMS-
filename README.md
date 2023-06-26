@@ -12,8 +12,17 @@ Read bpi_projet.pdf
 
 # Tools  
 Celonis, Prom and RapidMiner  
-Conecting data in Celonis  
+#### Conecting data in Celonis  
 ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023/assets/72107370/2ddd0fb2-4caa-4fdb-9338-4c89bb445127)  
+
+#### Update schema
+![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023/assets/72107370/5021144d-e2c2-4b56-b899-b8659870a5e5)  
+
+#### Import data (from csv files)
+![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023/assets/72107370/d7c0b4f4-4380-4389-91e3-7908fc0b7d46)  
+
+#### Data Jobs (ETL)
+
 
 
 
