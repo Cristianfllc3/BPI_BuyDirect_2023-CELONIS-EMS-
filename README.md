@@ -35,16 +35,23 @@ If necessary, transformations can be created in the Data Jobs.
 
 ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023/assets/72107370/5edfae02-745d-43d5-ba72-e29a3d434157)
 
-3 - Create and execute a schedule  
+3 - Loaded Data Model  
+![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023/assets/72107370/ca4f5f3a-a378-4897-b8b0-bf5192ce0889)
+Stats (click in details)
+![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023/assets/72107370/0ebfa4b6-6892-4b15-bd8b-a68aa0f872b0)
+
+5 - Create and execute a schedule  
 ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023/assets/72107370/1f3e5525-ae58-4ed9-be3d-99bac0a24db2)
    
  *Execute*  
-
 ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023/assets/72107370/fd618328-7ce6-48b7-a59e-cd3cedcea83e)
 
-
-
 # Exploring the Event Data  
+1 - Create a new Process Analysis (select the data model created in the previews steps)
+![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023/assets/72107370/ffb59745-7ace-4dde-b007-46c0ab35cdfd)
+![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023/assets/72107370/4ac8b92a-02b6-4f09-bc7d-b9a939eae976)
+
+
 
 # Conformance Checking  
 
