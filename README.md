@@ -49,7 +49,18 @@ Stats (click in details)
 # Exploring the Event Data  
 1 - Create a new Process Analysis (select the data model created in the previews steps)
 ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023/assets/72107370/ffb59745-7ace-4dde-b007-46c0ab35cdfd)
-![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023/assets/72107370/4ac8b92a-02b6-4f09-bc7d-b9a939eae976)
+..  
+![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023/assets/72107370/f8b2f304-5566-416b-8237-b070f7045859)  
+
+Add a new App  
+![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023/assets/72107370/8ae3a616-3883-4fdb-9ac8-c92cf4ee8a38)
+
+1a - Process Explorer component to create a Directly-Follows Graph (DFG) with activities as nodes. (If we move both sliders up (to 100% ) so that the
+DFG shows all (seven) activities and arcs obtained from the data.)  
+![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023/assets/72107370/4cb2adbe-c89a-4bfe-b093-e30461a08f86)
+
+
+
 
 
 
