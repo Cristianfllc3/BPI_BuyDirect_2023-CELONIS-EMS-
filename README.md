@@ -34,7 +34,15 @@ If necessary, transformations can be created in the Data Jobs.
 ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023/assets/72107370/1714c7ee-1049-4b61-b638-282a7e19ea61)
 
 ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023/assets/72107370/5edfae02-745d-43d5-ba72-e29a3d434157)
-  
+
+3 - Create and execute a schedule  
+![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023/assets/72107370/1f3e5525-ae58-4ed9-be3d-99bac0a24db2)
+   
+ *Execute*  
+
+![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023/assets/72107370/fd618328-7ce6-48b7-a59e-cd3cedcea83e)
+
+
 
 # Exploring the Event Data  
 
