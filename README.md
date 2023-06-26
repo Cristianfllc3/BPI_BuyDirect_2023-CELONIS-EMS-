@@ -61,8 +61,28 @@ DFG shows all (seven) activities and arcs obtained from the data.)
   
 ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023/assets/72107370/4cb2adbe-c89a-4bfe-b093-e30461a08f86)
 
+## Exploring the Event Data: Graphics 📊  
+
+   1. -Subscriptions distribution
+      *( Using a Pie Chart component, visualize the distribution of the values for the case attribute Subscription )*     
+![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023/assets/72107370/aa6462d6-cebd-4ea4-bdce-076c862641eb)
+  
+   3. s
+   4. s
+   5. s
+   6. s
+   7. s
+   8. s
+   9. s
+   10. s
+   11. s
+   12. s
+   13. 
 
 
+
+
+  
 
 
 
