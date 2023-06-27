@@ -77,7 +77,9 @@ DFG shows all (seven) activities and arcs obtained from the data.)
       **Option 2** - CONCAT("case-table"."SUBSCRIPTION", '- ', "case-table"."COMPONENT")  
       **Note**: Keep in mind to configure the maximum number of elements shown in the general graph options, by default it only shows 4.*  
 
-           ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023/assets/72107370/e8e02964-f55d-4b84-bed1-4502fa39ffa3)  
+      ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023/assets/72107370/354dd5af-15cd-4e48-8cf7-a9e3744c623c)
+
+     
 
    5. s
    6. s
