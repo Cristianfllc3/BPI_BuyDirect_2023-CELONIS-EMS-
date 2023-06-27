@@ -101,12 +101,17 @@ pie portion shows the fraction of the weeks for which a particular resource take
    **Note:** Each fraction, ratio can be viewed on the pie chart by applying a filter by week.  
 
    
-   ### 6. Component distribution  
-   *( .)*  
-   **Note**: *  
+   ### 6. Executions of activity "Register" by Resources  
+   *(Using a Pie Chart component, visualize how the executions of activity "Register" are split among the corresponding resources.)*  
+   **Note**: *KPI PQL: SUM(CASE WHEN "activity-table"."ACTIVITY" = 'Register' THEN 1 ELSE 0 END)*  
+   **Visual Editor**  
+   *KPI PQL: SUM(CASE WHEN "activity-table"."ACTIVITY" = 'Register' THEN 1 ELSE 0 END)*  
+   ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023/assets/72107370/bbba28f4-cd72-4eff-bbff-6724518bcd60)  
+
+   ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023/assets/72107370/1a872331-6695-4116-a143-3830ca029f35)
 
    ### 7. Component distribution  
-   *( .)*  
+   *(Using a Pie Chart component, visualize how the executions of activity "Register" are split among the corresponding resources .)*  
    **Note**: *  
 
    ### 8. Component distribution  
