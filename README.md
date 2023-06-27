@@ -64,20 +64,20 @@ DFG shows all (seven) activities and arcs obtained from the data.)
 ## Exploring the Event Data: Graphics 📊  
 
    ### 1. Subscriptions distribution  
-      *( Using a Pie Chart component, visualize the distribution of the values for the case attribute Subscription )*     
+   *( Using a Pie Chart component, visualize the distribution of the values for the case attribute Subscription )*     
 ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023/assets/72107370/aa6462d6-cebd-4ea4-bdce-076c862641eb)
     
    ### 2. Component distribution  
-      *(Using a Pie Chart component, visualize the distribution of the values for the case attribute Component)*
+   *(Using a Pie Chart component, visualize the distribution of the values for the case attribute Component)*
 ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023/assets/72107370/353992a2-6032-4ad0-9626-627124727bbd)  
       
    ### 3. Subscription-Component distribution  
-      *(Using a Pie Chart component, visualize the distribution of the combined values for the case attributes Subscription and Component together.)*     
-      **Option 1** - (With two dimensions in the visual)  
-      **Option 2** - CONCAT("case-table"."SUBSCRIPTION", '- ', "case-table"."COMPONENT")  
-      **Note**: Keep in mind to configure the maximum number of elements shown in the general graph options, by default it only shows 4.*  
+   *(Using a Pie Chart component, visualize the distribution of the combined values for the case attributes Subscription and Component together.)*     
+   **Option 1** - (With two dimensions in the visual)  
+   **Option 2** - CONCAT("case-table"."SUBSCRIPTION", '- ', "case-table"."COMPONENT")  
+   **Note**: Keep in mind to configure the maximum number of elements shown in the general graph options, by default it only shows 4.*  
 
-      ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023/assets/72107370/354dd5af-15cd-4e48-8cf7-a9e3744c623c)
+![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023/assets/72107370/354dd5af-15cd-4e48-8cf7-a9e3744c623c)
 
      
 
