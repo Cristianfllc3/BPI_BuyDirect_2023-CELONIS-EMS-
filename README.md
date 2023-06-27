@@ -79,28 +79,43 @@ DFG shows all (seven) activities and arcs obtained from the data.)
 
 ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023/assets/72107370/354dd5af-15cd-4e48-8cf7-a9e3744c623c)
 
-   ### 4. Component distribution  
+   ### 4. Total number of activities by resources  
    *(Using a Column Chart component, show for each resource (x-axis), the total number of activities handled by that resource in the process (y-axis).)*  
    **Note**: Sorted descendently by the number of activities*  
+     
    ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023/assets/72107370/eac9ebb5-af3a-48b3-a2f8-885bf8965b0d)
 
+   ### 5. Component distribution  
+   *( .)*  
+   **Note**: *  
+     
+   ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023/assets/72107370/eac9ebb5-af3a-48b3-a2f8-885bf8965b0d)
+   
+   ### 6. Component distribution  
+   *( .)*  
+   **Note**: *  
 
-   5. s
-   6. s
-   7. s
-   8. s
-   9. s
-   10. s
-   11. s
-   12. s
-   13. s
+   ### 7. Component distribution  
+   *( .)*  
+   **Note**: *  
 
+   ### 8. Component distribution  
+   *( .)*  
+   **Note**: *  
 
+   
+   ### 9. Component distribution  
+   *( .)*  
+   **Note**: *  
 
+   ### 10. Component distribution  
+   *( .)*  
+   **Note**: *  
 
-
-  
-
+   ### 11. Component distribution  
+   *( .)*  
+   **Note**: *  
+ 
 
 
 # Conformance Checking  
