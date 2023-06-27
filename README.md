@@ -7,10 +7,10 @@ References documentations
 *https://www.youtube.com/watch?v=dPCtRYpsO1I&t=114s*  
 
 
-# The Data  
+# 1 - The Data  
 Read bpi_projet.pdf
 
-# Tools  
+# 1.2 - Tools  / Methods
 Celonis, Prom and RapidMiner  
 #### Conecting data in Celonis  
 ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023/assets/72107370/2ddd0fb2-4caa-4fdb-9338-4c89bb445127)  
@@ -46,7 +46,7 @@ Stats (click in details)
  *Execute*  
 ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023/assets/72107370/fd618328-7ce6-48b7-a59e-cd3cedcea83e)
 
-# Exploring the Event Data  
+# 2 - Exploring the Event Data  
 1 - Create a new Process Analysis (select the data model created in the previews steps)
 ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023/assets/72107370/ffb59745-7ace-4dde-b007-46c0ab35cdfd)
 ..  
@@ -133,10 +133,10 @@ pie portion shows the fraction of the weeks for which a particular resource take
  
 
 
-# Conformance Checking  
+# 3 - Conformance Checking  
 
-# Conformance Checking  
+# 4 - Decision Mining
 
-# Performance  
+# 5 - Performance  
 
-# Organizational Mining  
+# 6 - Organizational Mining  
