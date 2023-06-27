@@ -63,15 +63,15 @@ DFG shows all (seven) activities and arcs obtained from the data.)
 
 ## Exploring the Event Data: Graphics 📊  
 
-   1. Subscriptions distribution  
+   ### 1. Subscriptions distribution  
       *( Using a Pie Chart component, visualize the distribution of the values for the case attribute Subscription )*     
 ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023/assets/72107370/aa6462d6-cebd-4ea4-bdce-076c862641eb)
     
-   2. Component distribution  
+   ### 2. Component distribution  
       *(Using a Pie Chart component, visualize the distribution of the values for the case attribute Component)*
 ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023/assets/72107370/353992a2-6032-4ad0-9626-627124727bbd)  
       
-   3. Subscription-Component distribution  
+   ### 3. Subscription-Component distribution  
       *(Using a Pie Chart component, visualize the distribution of the combined values for the case attributes Subscription and Component together.)*     
       **Option 1** - (With two dimensions in the visual)  
       **Option 2** - CONCAT("case-table"."SUBSCRIPTION", '- ', "case-table"."COMPONENT")  
