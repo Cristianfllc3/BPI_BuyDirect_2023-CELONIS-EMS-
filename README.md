@@ -79,7 +79,9 @@ DFG shows all (seven) activities and arcs obtained from the data.)
 
 ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023/assets/72107370/354dd5af-15cd-4e48-8cf7-a9e3744c623c)
 
-     
+   ### 4. Component distribution  
+   *(Using a Column Chart component, show for each resource (x-axis), the total number of activities handled by that resource in the process (y-axis).)*
+
 
    5. s
    6. s
