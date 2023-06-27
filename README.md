@@ -85,11 +85,21 @@ DFG shows all (seven) activities and arcs obtained from the data.)
      
    ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023/assets/72107370/eac9ebb5-af3a-48b3-a2f8-885bf8965b0d)
 
-   ### 5. Component distribution  
-   *( .)*  
-   **Note**: *  
+   ### 5. Distribution of ITSupport - resources  
+   *(Using a Pie Chart component, visualize the distribution of the ITSupport responsibility over the resources throughout the different weeks. I.e., each
+pie portion shows the fraction of the weeks for which a particular resource takes over the IT-Support responsibility. Provide the PQL code lines required for the dimension(s) and KPI(s) of the component..)*  
+   **PQL dimensions**:"activity-table"."RESOURCE"  
+   **PQL KPI**:"COUNT("activity-table"."RESOURCE")"  
+   
+   *In the OLAP table graph, the PQL codes were used:*  
+   
+   **PQL dimensions**:"ROUND_WEEK("activity-table"."TIMESTAMP")" **AND** "activity-table"."RESOURCE"   
+   **PQL KPI**:"COUNT("activity-table"."RESOURCE")" **AND**  PU_COUNT(DOMAIN_TABLE(ROUND_WEEK("activity-table"."TIMESTAMP")), "activity-table"."ACTIVITY")    
      
-   ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023/assets/72107370/eac9ebb5-af3a-48b3-a2f8-885bf8965b0d)
+   ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023/assets/72107370/057cc6a1-3cef-4eed-bde3-d03a30674781)
+
+   **Note:** Each fraction, ratio can be viewed on the pie chart by applying a filter by week.  
+
    
    ### 6. Component distribution  
    *( .)*  
