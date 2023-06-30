@@ -88,6 +88,7 @@ DFG shows all (seven) activities and arcs obtained from the data.)
    ### 5. Distribution of ITSupport - resources  
    *(Using a Pie Chart component, visualize the distribution of the ITSupport responsibility over the resources throughout the different weeks. I.e., each
 pie portion shows the fraction of the weeks for which a particular resource takes over the IT-Support responsibility. Provide the PQL code lines required for the dimension(s) and KPI(s) of the component..)*  
+  
    **PQL dimensions**:"activity-table"."RESOURCE"  
    **PQL KPI**:"COUNT("activity-table"."RESOURCE")"  
    
@@ -103,6 +104,7 @@ pie portion shows the fraction of the weeks for which a particular resource take
    
    ### 6. Executions of activity "Register" by Resources  
    *(Using a Pie Chart component, visualize how the executions of activity "Register" are split among the corresponding resources.)*  
+     
    **Note**: *KPI PQL: SUM(CASE WHEN "activity-table"."ACTIVITY" = 'Register' THEN 1 ELSE 0 END)*  
    **Visual Editor**  
    *KPI PQL: SUM(CASE WHEN "activity-table"."ACTIVITY" = 'Register' THEN 1 ELSE 0 END)*  
@@ -112,6 +114,7 @@ pie portion shows the fraction of the weeks for which a particular resource take
 
    ### 7. Component distribution  
    *(Using a Pie Chart component, visualize how the executions of activity "Register" are split among the corresponding resources .)*  
+     
    **Note**: SUM(CASE WHEN "activity-table"."ACTIVITY" = 'Send Answer' THEN 1 ELSE 0 END)  
    ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/cbb029e2-2ec6-4f65-8156-5a19a1ed047c)
 
@@ -119,8 +122,14 @@ pie portion shows the fraction of the weeks for which a particular resource take
 
 
    ### 8. Component distribution  
-   *( .)*  
-   **Note**: *  
+   *(Using a Pie Chart component, visualize how the executions of activity "Follow Up" are split among the corresponding resources..)*  
+     
+   **Note**: SUM(CASE WHEN "activity-table"."ACTIVITY" = 'Follow Up' THEN 1 ELSE 0 END) *  
+   ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/4cfe4ebd-41aa-421a-9c90-810de6296310)
+
+   ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/e58c1161-45c8-453b-8ea9-b81f7c74060d)
+
+
 
    
    ### 9. Component distribution  
