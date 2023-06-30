@@ -129,9 +129,7 @@ pie portion shows the fraction of the weeks for which a particular resource take
 
    ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/e58c1161-45c8-453b-8ea9-b81f7c74060d)
 
-
-
-   
+  
    ### 9. Component distribution  
    *( .)*  
    **Note**: *  
