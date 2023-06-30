@@ -107,7 +107,7 @@ pie portion shows the fraction of the weeks for which a particular resource take
      
    **Note**: *KPI PQL: SUM(CASE WHEN "activity-table"."ACTIVITY" = 'Register' THEN 1 ELSE 0 END)*  
    **Visual Editor**  
-   *KPI PQL: SUM(CASE WHEN "activity-table"."ACTIVITY" = 'Register' THEN 1 ELSE 0 END)*  
+   *KPI PQL: SUM(CASE WHEN "activity-table"."ACTIVITY" = 'Register' THEN 1 ELSE 0 END)   
    ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023/assets/72107370/bbba28f4-cd72-4eff-bbff-6724518bcd60)  
 
    ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023/assets/72107370/1a872331-6695-4116-a143-3830ca029f35)
@@ -124,15 +124,19 @@ pie portion shows the fraction of the weeks for which a particular resource take
    ### 8. Executions of activity "Follow Up" by Resources  
    *(Using a Pie Chart component, visualize how the executions of activity "Follow Up" are split among the corresponding resources..)*  
      
-   **Note**: SUM(CASE WHEN "activity-table"."ACTIVITY" = 'Follow Up' THEN 1 ELSE 0 END) *  
+   **Note**: SUM(CASE WHEN "activity-table"."ACTIVITY" = 'Follow Up' THEN 1 ELSE 0 END)   
    ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/4cfe4ebd-41aa-421a-9c90-810de6296310)
 
    ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/e58c1161-45c8-453b-8ea9-b81f7c74060d)
 
   
    ### 9. Component distribution  
-   *( .)*  
-   **Note**: *  
+   *( Using a Pie Chart component, visualize how often the resource named Jane executes different activities.)*  
+   **Note**: SUM(CASE WHEN "activity-table"."RESOURCE" = 'Jane' THEN 1 ELSE 0 END)  
+   ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/ade07ea2-2e80-49a4-9009-bfcda756b4fd)  
+  
+   ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/cd010508-d063-4063-90fc-11b15babc603)  
+
 
    ### 10. Component distribution  
    *( .)*  
