@@ -112,8 +112,8 @@ pie portion shows the fraction of the weeks for which a particular resource take
 
    ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023/assets/72107370/1a872331-6695-4116-a143-3830ca029f35)
 
-   ### 7. Component distribution  
-   *(Using a Pie Chart component, visualize how the executions of activity "Register" are split among the corresponding resources .)*  
+   ### 7. Executions of activity "Send Answer" by Resources 
+   *(Using a Pie Chart component, visualize how the executions of activity "Send Answer" are split among the corresponding resources .)*  
      
    **Note**: SUM(CASE WHEN "activity-table"."ACTIVITY" = 'Send Answer' THEN 1 ELSE 0 END)  
    ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/cbb029e2-2ec6-4f65-8156-5a19a1ed047c)
@@ -121,7 +121,7 @@ pie portion shows the fraction of the weeks for which a particular resource take
    ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/8ec7a83e-059b-48f6-92e9-6ad4a9145e6f)
 
 
-   ### 8. Component distribution  
+   ### 8. Executions of activity "Follow Up" by Resources  
    *(Using a Pie Chart component, visualize how the executions of activity "Follow Up" are split among the corresponding resources..)*  
      
    **Note**: SUM(CASE WHEN "activity-table"."ACTIVITY" = 'Follow Up' THEN 1 ELSE 0 END) *  
