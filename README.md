@@ -172,26 +172,26 @@ Conformance overview
 ## Process overview (event_log vs event_log_noise.xes)  
 
 ### Happy Path  
-*event_log*  
+**event_log**  
 ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/0a322919-de67-4412-8bb8-539a4fed4c3c)
 
-*event_log_noise.xes*  
+**event_log_noise.xes**  
 ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/2f21f9cb-fb29-4f8c-84b4-d245a4983268)
   
 ### Throughput times
-*event_log*  
+**event_log**  
 ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/6c8e7cbb-f64f-4164-ab78-ba43ff89a973)
 
-*event_log_noise.xes*  
+**event_log_noise.xes**  
 ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/8d992d84-e326-4e1c-9fa9-97cfc5ca53e8)
   
   
 ### Activities  
-*event_log*  
-![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/3a0e2af9-f67e-4716-b0c0-927f60e87037)  
+**event_log**  
+![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/3a0e2af9-f67e-4716-b0c0-927f60e87037){height=100px width=100px}  
 
-*event_log_noise.xes*  
-![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/187479bd-0bc4-4585-893d-91a6c08b914c)
+**event_log_noise.xes**  
+![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/187479bd-0bc4-4585-893d-91a6c08b914c =100x20)
   
 
 # 4 - Decision Mining
