@@ -149,10 +149,7 @@ pie portion shows the fraction of the weeks for which a particular resource take
    *(Using a Histogram Chart component, visualize the number of occurrences for the throughput time in days. In the advanced options, select the Specific bucket count and set it to 10 (buckets). This will divide your values into 10 equal-width buckets.)*    
    **Note**: CALC_THROUGHPUT(CASE_START TO CASE_END, REMAP_TIMESTAMPS("activity-table"."TIMESTAMP", DAYS))   
 
-    ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/865605af-dfa3-43f4-b60f-945cba7aa0da) 
-    
-
-
+  ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/b66522e0-fe3d-4ed5-b6d3-ac0ed6d9a39c)
 
 # 3 - Conformance Checking  
 
