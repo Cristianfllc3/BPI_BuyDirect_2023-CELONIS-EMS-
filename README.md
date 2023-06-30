@@ -139,8 +139,13 @@ pie portion shows the fraction of the weeks for which a particular resource take
 
 
    ### 10. Component distribution  
-   *( .)*  
-   **Note**: *  
+    *( Using a Pie Chart component, visualize how often the resource named Jane executes different activities.)*  
+   **Note**: SUM(CASE WHEN "activity-table"."RESOURCE" = 'Liam' THEN 1 ELSE 0 END)   
+
+   ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/9175a5f2-f46f-4540-a396-36f06649fcaa)  
+
+
+   
 
    ### 11. Component distribution  
    *( .)*  
