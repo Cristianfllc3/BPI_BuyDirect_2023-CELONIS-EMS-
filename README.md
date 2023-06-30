@@ -152,14 +152,15 @@ pie portion shows the fraction of the weeks for which a particular resource take
   ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/b66522e0-fe3d-4ed5-b6d3-ac0ed6d9a39c)
 
 # 3 - Conformance Checking  
-The request handling system of BuyDirect had some issues lately and your manager asks you to run a conformance checking analysis on the recorded event log.
+The request handling system of BuyDirect had some issues lately and your manager asks you to run a conformance checking analysis on the recorded event log. ()  
 ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/4937975f-66a9-4340-a468-256648b923e9)
   
-(a) Mine the reference model based on the most common trace variants that cover 50% of cases.  
+**(a)** Mine the reference model based on the most common trace variants that cover **50% of cases.**  
   
 ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/d9826b15-8195-49e8-ac73-c6c33c84297a)
   
- Add a screenshot of the model in your report (BPMN)  
+ **(b)** Add a screenshot of the model in your report (BPMN)   
+   
  ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/1d6f3f81-5fe6-4a20-badb-bdf1e780eb4c)  
 
 Conformance overview  
@@ -167,6 +168,31 @@ Conformance overview
 ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/907b53a4-ad0d-4556-baeb-900011ce0fdd)
 
 ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/1cac6d50-38c5-4da3-b87a-8400d75faa87)
+
+## Process overview (event_log vs event_log_noise.xes)  
+
+### Happy Path  
+*event_log*  
+![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/0a322919-de67-4412-8bb8-539a4fed4c3c)
+
+*event_log_noise.xes*  
+![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/2f21f9cb-fb29-4f8c-84b4-d245a4983268)
+  
+### Throughput times
+*event_log*  
+![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/6c8e7cbb-f64f-4164-ab78-ba43ff89a973)
+
+*event_log_noise.xes*  
+![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/8d992d84-e326-4e1c-9fa9-97cfc5ca53e8)
+  
+  
+### Activities  
+*event_log*  
+![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/3a0e2af9-f67e-4716-b0c0-927f60e87037)  
+
+*event_log_noise.xes*  
+![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/187479bd-0bc4-4585-893d-91a6c08b914c)
+  
 
 # 4 - Decision Mining
 
