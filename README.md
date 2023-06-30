@@ -152,6 +152,17 @@ pie portion shows the fraction of the weeks for which a particular resource take
   ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/b66522e0-fe3d-4ed5-b6d3-ac0ed6d9a39c)
 
 # 3 - Conformance Checking  
+The request handling system of BuyDirect had some issues lately and your manager asks you to run a conformance checking analysis on the recorded event log.
+![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/4937975f-66a9-4340-a468-256648b923e9)
+  
+(a) Mine the reference model based on the most common trace variants that cover 50% of cases.  
+  
+![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/d9826b15-8195-49e8-ac73-c6c33c84297a)
+  
+ Add a screenshot of the model in your report (BPMN)  
+ ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/1d6f3f81-5fe6-4a20-badb-bdf1e780eb4c)  
+
+
 
 # 4 - Decision Mining
 
