@@ -162,7 +162,11 @@ The request handling system of BuyDirect had some issues lately and your manager
  Add a screenshot of the model in your report (BPMN)  
  ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/1d6f3f81-5fe6-4a20-badb-bdf1e780eb4c)  
 
+Conformance overview  
 
+![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/907b53a4-ad0d-4556-baeb-900011ce0fdd)
+
+![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/1cac6d50-38c5-4da3-b87a-8400d75faa87)
 
 # 4 - Decision Mining
 
