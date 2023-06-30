@@ -63,7 +63,7 @@ DFG shows all (seven) activities and arcs obtained from the data.)
 
 ## Exploring the Event Data: Graphics 📊  
 
-   ### 1. Subscriptions distribution  
+   ### 1. Subscriptions distribution   
    *( Using a Pie Chart component, visualize the distribution of the values for the case attribute Subscription )*     
 ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023/assets/72107370/aa6462d6-cebd-4ea4-bdce-076c862641eb)
     
@@ -130,7 +130,7 @@ pie portion shows the fraction of the weeks for which a particular resource take
    ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/e58c1161-45c8-453b-8ea9-b81f7c74060d)
 
   
-   ### 9. Component distribution  
+   ### 9. Activities distribution executed by Janen  
    *( Using a Pie Chart component, visualize how often the resource named Jane executes different activities.)*  
    **Note**: SUM(CASE WHEN "activity-table"."RESOURCE" = 'Jane' THEN 1 ELSE 0 END)  
    ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/ade07ea2-2e80-49a4-9009-bfcda756b4fd)  
@@ -138,19 +138,20 @@ pie portion shows the fraction of the weeks for which a particular resource take
    ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/cd010508-d063-4063-90fc-11b15babc603)  
 
 
-   ### 10. Component distribution  
+   ### 10. Activities distribution executed by Liam  
     *( Using a Pie Chart component, visualize how often the resource named Jane executes different activities.)*  
    **Note**: SUM(CASE WHEN "activity-table"."RESOURCE" = 'Liam' THEN 1 ELSE 0 END)   
 
    ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/9175a5f2-f46f-4540-a396-36f06649fcaa)  
 
 
-   
-
    ### 11. Component distribution  
-   *( .)*  
-   **Note**: *  
- 
+   *(Using a Histogram Chart component, visualize the number of occurrences for the throughput time in days. In the advanced options, select the Specific bucket count and set it to 10 (buckets). This will divide your values into 10 equal-width buckets.)*    
+   **Note**: CALC_THROUGHPUT(CASE_START TO CASE_END, REMAP_TIMESTAMPS("activity-table"."TIMESTAMP", DAYS))   
+
+    ![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/865605af-dfa3-43f4-b60f-945cba7aa0da) 
+    
+
 
 
 # 3 - Conformance Checking  
