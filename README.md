@@ -187,11 +187,17 @@ Conformance overview
   
   
 ### Activities  
+
+| Event_log | Event_log_noise.xes |
+| --------- | ------------------ |
+| <img src="https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/3a0e2af9-f67e-4716-b0c0-927f60e87037" width="500"> | <img src="https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/187479bd-0bc4-4585-893d-91a6c08b914c" width="500"> |  
+
+  
 **event_log**  
-<img src="https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/3a0e2af9-f67e-4716-b0c0-927f60e87037" width="300">
+<img src="https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/3a0e2af9-f67e-4716-b0c0-927f60e87037" width="500">
 
 **event_log_noise.xes**  
-<img src="https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/187479bd-0bc4-4585-893d-91a6c08b914c" width="300">
+<img src="https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/187479bd-0bc4-4585-893d-91a6c08b914c" width="500">
 
 
 # 4 - Decision Mining
