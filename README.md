@@ -192,12 +192,17 @@ Conformance overview
 | --------- | ------------------ |
 | <img src="https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/3a0e2af9-f67e-4716-b0c0-927f60e87037" width="500"> | <img src="https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/187479bd-0bc4-4585-893d-91a6c08b914c" width="500"> |  
 
-  
-**event_log**  
-<img src="https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/3a0e2af9-f67e-4716-b0c0-927f60e87037" width="500">
+## Conformance Checking  (event_log vs event_log_noise.xes) 
+As a good practice to carry out the **confirmation check**, in principle, a base model is used, which can be stored in the Celonis BPMN repository, or have the file available in our local repository.  
+![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/7e24a6f5-0aad-4134-ab8d-4b7dca0346d4)
 
-**event_log_noise.xes**  
-<img src="https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/187479bd-0bc4-4585-893d-91a6c08b914c" width="500">
+Select the referencial BPMN from selected repository.
+![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/e22c8744-867b-4157-976b-bb12b6097753)
+
+**Launch the conformance cheeck**
+![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/5d54178d-e05a-430f-9da2-1f51e6786626)
+
+![image](https://github.com/Cristianfllc3/BPI_BuyDirect_2023-CELONIS-EMS-/assets/72107370/345e5fca-c5eb-4c6c-8277-5de51b8c9701)
 
 
 # 4 - Decision Mining
